@@ -163,8 +163,8 @@ These skills are relevant to cybersecurity because incorrect file permissions ca
 
 ### Permissions before remediation
 
-![Permissions before remediation](permissions-before.png)
+![Permissions before remediation](screenshots/permissions-before.png)
 
 ### Permissions after remediation
 
-![Permissions after remediation](permissions-after.png)
+![Permissions after remediation](screenshots/permissions-after.png)
