@@ -159,3 +159,12 @@ This removed the group's access while preserving full permissions for the owner.
 This project helped me practice auditing and modifying Linux file and directory permissions using the command line. I learned how to interpret permission strings, identify unauthorized access, use `chmod` to modify permissions, and verify the changes with `ls -l` and `ls -la`.
 
 These skills are relevant to cybersecurity because incorrect file permissions can allow unauthorized users to access or modify sensitive information. Applying the principle of least privilege helps reduce the risk of unauthorized access.
+## Evidence
+
+### Permissions before remediation
+
+![Permissions before remediation](permissions-before.png)
+
+### Permissions after remediation
+
+![Permissions after remediation](permissions-after.png)
