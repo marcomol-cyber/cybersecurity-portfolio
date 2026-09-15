@@ -98,6 +98,10 @@ These skills are relevant to cybersecurity because SQL can be used to investigat
 
 ## Evidence
 
-### SQL queries and results
+### After-hours failed login investigation
 
-Screenshots of the SQL queries and their results are included as evidence of the investigation and filtering process.
+![After-hours failed login investigation](sql-login-investigation.png)
+
+### Employee data filtering
+
+![Employee data filtering](sql-employee-filter.png)
